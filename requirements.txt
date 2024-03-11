@@ -1,0 +1,8 @@
+ctransformers
+sentence-transformers
+chromadb
+langchain==0.0.334
+flask
+pypdf
+python-dotenv
+-e .
